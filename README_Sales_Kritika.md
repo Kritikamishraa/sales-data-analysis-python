@@ -74,7 +74,6 @@ python sale.py
 ✅ Add data visualizations using **Matplotlib** / **Seaborn**  
 ✅ Create interactive dashboards with **Power BI** or **Tableau**  
 ✅ Build predictive models (e.g., sales forecasting)
-
 ---
 
 ## 🙋‍♀️ About Me
